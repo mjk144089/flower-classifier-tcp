@@ -1,0 +1,10 @@
+myenv/
+model/
+*.pyc
+__pycache__/
+*.log
+*.tmp
+*.swp
+.idea/
+.vscode/
+.venv/
